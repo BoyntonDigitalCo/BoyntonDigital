@@ -1,11 +1,44 @@
-<div align="center">
+# BoyntonDigital
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+High-performance digital agency building websites that convert.
 
-  <h1>Built with AI Studio</h2>
+## Project Overview
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+BoyntonDigital is a modern, high-converting landing page built for local businesses. It focuses on driving customer calls through optimized design, lightning-fast performance, and clear calls to action.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- **React 18**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion** (for animations)
+- **Lucide React** (for icons)
+
+## Getting Started
+
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+2. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+3. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## Features
+
+- **Fullscreen Hero Section:** High-impact typography and immersive background glows.
+- **Lead Generation Modal:** Integrated form for capturing customer inquiries.
+- **Responsive Design:** Optimized for mobile, tablet, and desktop.
+- **Performance Focused:** Built with modern tools for maximum speed.
+
+---
+
+© 2026 BoyntonDigital. All rights reserved.
