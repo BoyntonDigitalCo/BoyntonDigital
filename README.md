@@ -1,44 +1,14 @@
-# BoyntonDigital
-
-High-performance digital agency building websites that convert.
-
-## Project Overview
-
-BoyntonDigital is a modern, high-converting landing page built for local businesses. It focuses on driving customer calls through optimized design, lightning-fast performance, and clear calls to action.
-
-## Tech Stack
-
-- **React 18**
-- **TypeScript**
-- **Vite**
-- **Tailwind CSS**
-- **Framer Motion** (for animations)
-- **Lucide React** (for icons)
-
-## Getting Started
-
-1. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-2. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-
-3. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
-## Features
-
-- **Fullscreen Hero Section:** High-impact typography and immersive background glows.
-- **Lead Generation Modal:** Integrated form for capturing customer inquiries.
-- **Responsive Design:** Optimized for mobile, tablet, and desktop.
-- **Performance Focused:** Built with modern tools for maximum speed.
-
----
-
-© 2026 BoyntonDigital. All rights reserved.
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BoyntonDigital | High-Performance Websites for Local Businesses</title>
+    <meta name="description" content="We build high-converting websites that get you more calls. Stop losing customers to outdated designs." />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
